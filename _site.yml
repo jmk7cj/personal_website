@@ -1,0 +1,43 @@
+---
+title: "Joseph M. Kush"
+
+image: "pic.jpg"
+
+links:
+  - label: CV
+    url: "https://linkedin.com/"
+    
+  - label: Twitter
+    url: "https://twitter.com/_kushjoe"
+    
+  - label: GitHub
+    url: "https://github.com/jmk7cj"
+    
+  - label: Email
+    url: "mailto:jkush1@jhu.edu"
+
+urlcolor: red
+linkcolor: red
+
+favicon:
+  jmk.png
+  
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: cv.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Code"
+      href: code.html
+            
+output:
+  #postcards::jolla
+  #postcards::trestles
+  distill::distill_article:
+    css: postcards.css
+    theme: postcards.css
+    
+---

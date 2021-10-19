@@ -1,0 +1,156 @@
+---
+title: "Publications"
+
+image: "pic.jpg"
+
+links:
+  - label: CV
+    url: "https://linkedin.com/"
+    
+  - label: Twitter
+    url: "https://twitter.com/_kushjoe"
+    
+  - label: GitHub
+    url: "https://github.com/jmk7cj"
+    
+  - label: Email
+    url: "mailto:jkush1@jhu.edu"
+
+favicon: 
+  jmk.png
+  
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: cv.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Code"
+      href: code.html
+
+output:
+  #postcards::jolla 
+  #postcards::trestles 
+  distill::distill_article: 
+    css: postcards2.css
+    theme: postcards2.css
+
+---
+
+
+<!--- "/Users/joekush/Box/JHU Postdoc/summer 2021/job material/fall 2021/KUSH CV october 2021.pdf" -->
+
+<!--- postcards::jolla -->
+<!--- postcards::trestles --> 
+
+<!--- library("postcards") -->
+<!--- postcards::create_postcard(template = "jolla") -->
+
+<style type="text/css">
+
+body, td {
+   font-size: 14px;
+}
+
+</style>
+
+ 
+<!--- ## Publications ---> 
+
+### *Peer Reviewed*
+
+Bradshaw, C.P., Pas, E. T., Musci, R. J., **Kush, J. M.**, & Ryoo, J. H. (2021). 
+Leveraging policy to improve behavioral and academic outcomes through School-wide Positive Behavioral Interventions and Supports. 
+*Prevention Science, 22*(7), 986-1000. 
+[https://link.springer.com/article/10.1007%2Fs11121-021-01257-0](https://link.springer.com/article/10.1007%2Fs11121-021-01257-0){target="_blank"}
+
+
+**Kush, J. M.**, Konold, T. R., & Bradshaw, C.P. (2021). 
+The sampling ratio in multilevel structural equation models: Considerations to inform study design. 
+*Educational and Psychological Measurement*. 
+[https://doi.org/10.1177/00131644211020112](https://doi.org/10.1177/00131644211020112){target="_blank"}
+
+
+**Kush, J. M.**, Konold, T. K., & Bradshaw, C. P. (2021). 
+Statistical power for randomized 	controlled trials with clusters of varying size. 
+*The Journal of Experimental Education*. 
+[https://doi.org/10.1080/00220973.2021.1873089](https://doi.org/10.1080/00220973.2021.1873089){target="_blank"}
+
+
+Larson, K., Pas, E. T., Bottiani, J., **Kush, J. M.**, & Bradshaw, C. P. (2020). 
+A multidimensional and multilevel examination of student engagement and teachers’ use of classroom management practices. 
+*Journal of Positive Behavior Interventions, 23*(3), 149-	162. 
+[https://doi.org/10.1177/1098300720929352](https://doi.org/10.1177/1098300720929352){target="_blank"}
+
+
+Bradshaw, C. P., & **Kush, J. M.** (2019). 
+Teacher observation of classroom adaptation-checklist: Measuring Children’s Social, Emotional, and Behavioral Functioning. 
+*Children & Schools, 42*(1), 29-40. 
+[https://doi.org/10.1093/cs/cdz022](https://doi.org/10.1093/cs/cdz022){target="_blank"}
+
+
+Larson, K. E., Bottiani, J. H., Pas, E. T., **Kush, J. M.**, & Bradshaw, C. P. (2019). 
+A multilevel analysis of racial discipline disproportionality: A focus on student perceptions of 	academic engagement and disciplinary environment. 
+*Journal of School Psychology, 77*, 152-167. 
+[https://doi.org/10.1016/j.jsp.2019.09.003](https://doi.org/10.1016/j.jsp.2019.09.003){target="_blank"}
+
+
+Morin, H. K., Bradshaw, C. P., & **Kush, J. M.** (2018). 
+Adjustment outcomes of victims of cyberbullying: The role of personal and contextual factors. 
+*Journal of School Psychology, 70*, 74–88. 
+[https://doi.org/10.1016/j.jsp.2018.07.002](https://doi.org/10.1016/j.jsp.2018.07.002){target="_blank"}
+
+
+<br>
+
+### *Manuscripts under review*
+
+Henderson, L. J., Bottiani, J., **Kush, J. M.**, & Bradshaw, C. P. (Under review, 2021). 
+The discipline gap in context: The role of school racial and ethnic diversity in out-of-school suspensions. 
+
+
+**Kush, J. M.**, Badillo-Goicoechea, E., Musci, R. J., & Stuart, E. A. (Under review, 2021). 	
+Teacher mental health during the COVID-19 pandemic: Informing policies to support teacher well-being and effective teaching practices. 
+
+
+Bradshaw, C. P., Katrina, J. D., **Kush, J. M.**, & Lindstrom-Johnson, S. (Under review, 2021). 	
+Planning for a 	crisis, but preparing for everyday: What predicts schools’ preparedness to 	respond to a school safety crisis? 
+
+
+Bloomfield-Clagett, B., Greenstein, D., **Kush, J. M.**, Musci, R. J., Zarate, C., & Ballard, E. (Under review, 2021). 
+Predictors of suicidal ideation trajectories in the Sequenced Treatment Alternatives to Relieve Depression (STAR*D) study. 
+
+
+Brown, J. T., Volk, F., & **Kush, J. M.** (Under review, 2021).
+How the COVID pandemic 	differentially impacted retention for residential and online students: Implications for financial aid policy and practice. 
+
+
+
+
+
+<br>
+
+### *Manuscripts in progress*
+
+Bottiani, J. H., *Kush, J. M.*, McDaniel, H., Pas, E. T., & Bradshaw, C. P. (In progress, 2021). 	
+Effect of Positive Behavioral Interventions and Supports on school discipline disproportionality: A quasi-experimental study.
+
+
+Brown, J. T., Volk, F., & **Kush, J. M.** (In progress, 2021). 
+Inequalities in higher education: The interaction of race, socioeconomic status, and residence hall design on academic outcomes. 
+
+Bradshaw, C. P., **Kush, J. M.**, Braun, S. S., & Barton, E. A. (In progress, 2021). 
+Understanding the perceived impact of the COVID-19 pivot to on-line instruction on teacher and 	administrator stress.
+
+
+**Kush, J. M.**, Masyn, K. E., Amin-Esmaeili, M., Susukida, R., Wilcox, H. C., & Musci, R. J. (In progress, 2021).
+Utilizing moderated nonlinear factor analysis models for 	integrative data analysis: A tutorial. 
+
+
+**Kush, J. M.**, Pas, E. T., Musci, R. J., & Bradshaw, C. P. (In progress, 2021). 
+Covariate balance for observational scale-ups: A comparison of matching and weighting. 
+
+
+

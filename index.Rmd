@@ -1,0 +1,73 @@
+---
+title: "Joseph M. Kush"
+
+image: "pic.jpg"
+
+links:
+  - label: Twitter
+    url: "https://twitter.com/_kushjoe"
+    
+  - label: GitHub
+    url: "https://github.com/jmk7cj"
+    
+  - label: Email
+    url: "mailto:jkush1@jhu.edu"
+
+urlcolor: red
+linkcolor: red
+
+favicon: 
+  jmk.png
+  
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: cv.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Code"
+      href: code.html
+
+site: distill::distill_website
+                          
+output:
+  #postcards::jolla 
+  postcards::trestles:
+  #distill::distill_article
+    css: postcards2.css
+
+---
+
+<!--- 
+<style type="text/css">
+
+body, td {
+   font-size: 16px;
+}
+
+</style>
+--> 
+
+<br>
+
+## About me
+
+I am currently a postdoctoral fellow at [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/){target="_blank"}. The primary goal of my research is to develop statistical methods and analytic tools to solve problems in the social sciences. I am particularly interested in latent variable measurement in multilevel settings, propensity score methods for causal inference, and moderated nonlinear factor analysis. I have applied these methods in empirical work, including exploring trends in disproportionate discipline of minority students in schools over time, and developing a psychometrically sound screener of children’s social, emotional, and behavioral functioning.
+
+
+<br>
+
+## Education
+##### Ph.D. &nbsp; | &nbsp; 2021 &nbsp; | &nbsp; University of Virginia 
+Educational Psychology – Research, Statistics and Evaluation 
+
+<br>
+
+##### B.S. &nbsp; | &nbsp; 2016 &nbsp; | &nbsp; Syracuse University
+Psychology – Minors in Applied Statistics, Philosophy
+
+
+
+
