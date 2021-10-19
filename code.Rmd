@@ -1,0 +1,70 @@
+---
+title: "Code from papers"
+
+urlcolor: red
+linkcolor: red
+
+favicon: 
+  jmk.png
+  
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: cv.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Code"
+      href: code.html
+
+output:
+  distill::distill_article:
+    css: postcards2.css
+  
+theme: postcards2.css
+---
+
+
+<style type="text/css">
+
+body, td {
+   font-size: 14px;
+}
+
+</style>
+
+
+ 
+<!--- ## Code from papers ---> 
+
+ 
+### Sampling ratio for multilevel SEM
+Here is [R code](https://github.com/jmk7cj/Sampling-Ratio-for-MSEM/blob/main/monte%20carlo%20simulation/R%20code/syntax.R){target="_blank"} used for Monte Carlo simulations. This relies heavily on the MplusAutomation package in R. An example Mplus input file for part 1: data generation can be found [here](https://github.com/jmk7cj/Sampling-Ratio-for-MSEM/blob/main/monte%20carlo%20simulation/example%20Mplus%20files/part%201%20-%20generate%20data/generate_data.inp){target="_blank"},
+while an example Mplus input file for part 2: data analysis can be found [here](https://github.com/jmk7cj/Sampling-Ratio-for-MSEM/blob/main/monte%20carlo%20simulation/example%20Mplus%20files/part%202%20-%20analyze%20data/analyze_data.inp){target="_blank"}. 
+For the illustrative example, the doubly latent model can be estimated in both 
+[Mplus](https://github.com/jmk7cj/Sampling-Ratio-for-MSEM/blob/main/illustrative%20example/Mplus/syntax.inp){target="_blank"}
+and [R](https://github.com/jmk7cj/Sampling-Ratio-for-MSEM/blob/main/illustrative%20example/R/syntax.R){target="_blank"} 
+using [this data](https://github.com/jmk7cj/Sampling-Ratio-for-MSEM/blob/main/illustrative%20example/R/data.csv){target="_blank"}. 
+
+
+### Moderated nonlinear factor analysis for SEM
+Here is [R code](https://github.com/jmk7cj/SEM-mnlfa/blob/main/code.R){target="_blank"}
+used for all steps of conducting moderated nonlinear factor analysis using 
+[example data](https://github.com/jmk7cj/SEM-mnlfa/blob/main/data.csv){target="_blank"}.
+
+
+### Statistical power for cluster randomized trials
+Here is [R code](https://github.com/jmk7cj/Statistical-Power-for-CRTs/blob/main/monte%20carlo%20simulation/R%20code/syntax.R){target="_blank"}
+used to conduct a Monte Carlo simulation of statistical power for cluster randomized controlled trials with clusters of varying size 
+
+
+### Propensity score matching and weighting example code 
+An example of [R code](https://github.com/jmk7cj/PSMW-example/blob/main/code.R){target="_blank} 
+using MatchIt and WeightIt to balance baseline covariates
+
+
+
+
+
+
