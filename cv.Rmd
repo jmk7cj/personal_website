@@ -1,0 +1,41 @@
+---
+title: "CV"
+
+favicon: 
+  jmk.png
+  
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: cv.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Code"
+      href: code.html
+
+output:
+  distill::distill_article:
+     css: postcards2.css
+---
+
+<center> 
+
+<!--- <embed src="KUSH cv.pdf" height="800px" width="800px"> --> 
+<!--- <embed src="KUSH cv.pdf" height="800px" width="100%"> --> 
+
+<html>
+<body>
+    <object data="KUSH cv.pdf" type="application/pdf" height="800px" width="100%">
+        <embed src="KUSH cv.pdf" type="application/pdf" height="800px" width="100%" />
+    </object>
+</body>
+</html>
+
+</center> 
+
+
+
+
+
