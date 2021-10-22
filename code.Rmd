@@ -65,7 +65,7 @@ using MatchIt and WeightIt to balance baseline covariates.
 
 
 ### Covariate balance for observational scale-ups
-Conducting [Monte Carlo simulations in R](https://github.com/jmk7cj/Covariate-Balance/blob/main/code.R){target="_blank"} 
+Conducting Monte Carlo [simulations in R](https://github.com/jmk7cj/Covariate-Balance/blob/main/code.R){target="_blank"} 
 to compare the performance of propensity score 
 matching and weighting methods for achieving covariate balance. 
 
