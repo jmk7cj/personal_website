@@ -27,16 +27,21 @@ output:
 
 <html>
 <body>
+    
+  
     <!--- <object data="KUSH cv.pdf" type="application/pdf" height="800px" width="100%"> --> 
-        <!--- <embed src="KUSH cv.pdf" type="application/pdf" height="800px" width="100%" /> --> 
+    <!--- <embed src="KUSH cv.pdf" type="application/pdf" height="800px" width="100%" /> --> 
     <!--- </object> -- > 
 
- <iframe id="theFrame" src="KUSH cv.pdf" style="height:900px; width:100%;"></iframe>  
- <script> 
- document.getElementById("theFrame").contentWindow.onload = function() { 
-     this.document.getElementsByTagName("img")[0].style.width="100%"; 
- }; 
- </script> 
+
+ <!--- <iframe id="theFrame" src="KUSH cv.pdf" style="height:900px; width:100%;"></iframe>  --> 
+ <!--- <script>                                                                             --> 
+ <!--- document.getElementById("theFrame").contentWindow.onload = function() {              --> 
+ <!---     this.document.getElementsByTagName("img")[0].style.width="100%";                 --> 
+ <!--- };                                                                                   --> 
+ <!--- </script>                                                                            --> 
+  
+  <a href="KUSH cv.pdf">Curriculum Vitae</a>  
 
 
 </body>
