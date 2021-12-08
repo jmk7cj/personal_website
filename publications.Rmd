@@ -62,9 +62,9 @@ body, td {
 ### *Peer Reviewed*
 
 Bradshaw, C.P., Pas, E. T., Musci, R. J., **Kush, J. M.**, & Ryoo, J. H. (2021). 
-Leveraging policy to improve behavioral and academic outcomes through School-wide Positive Behavioral Interventions and Supports. 
+Can policy promote adoption or outcomes of evidence-based prevention programs?: A case illustration of Positive Behavioral Interventions and Supports. 
 *Prevention Science, 22*(7), 986-1000. 
-[https://link.springer.com/article/10.1007%2Fs11121-021-01257-0](https://link.springer.com/article/10.1007%2Fs11121-021-01257-0){target="_blank"}
+[https://doi.org/10.1007/s11121-021-01257-0](https://doi.org/10.1007/s11121-021-01257-0){target="_blank"}
 
 
 **Kush, J. M.**, Konold, T. R., & Bradshaw, C.P. (2021). 
